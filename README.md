@@ -1,6 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Dome Cordova</h1>
-<h3 align="center">A passionate developer from Ecuador</h3>
+### Hi there 👋 I'm Dome Córdova,
+
+A engineer in electronic and automation passionate about Data Science :bar_chart::cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+
+<!--
+- 🌱 I’m currently pursuing leran about Data Analytics 
+-->
+- ⚡ **Fun fact:
+- :bulb: I'm interested in all things data: **Data Analytics, Cloud, Machine Learning and Data Analisis**
+- 💬 Talk to me about  Memes, Anime, Movies 🎥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
